@@ -1,6 +1,6 @@
-# MVP_Analise_de_dados_e_boas_praticas
+### MVP_Analise_de_dados_e_boas_praticas
 
-Introdução
+# Introdução
 
 O presente trabalho é um pré-requisito da disciplina Análise de Dados e Boas Práticas da pós graduação em Ciência de Dados e Analytics da PUC-Rio.
 
@@ -8,7 +8,7 @@ Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são apli
 
 O conjunto de Dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
-Estrutura do trabalho
+# Estrutura do trabalho
 
 O trabalho está dividido em tópicos, conforme a seguir:
 
@@ -21,6 +21,8 @@ O trabalho está dividido em tópicos, conforme a seguir:
 4.
 
 5.
+
+# Dados Complementares
 
 Link para o dataset utilizado: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
