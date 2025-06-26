@@ -8,6 +8,18 @@ Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são apli
 
 O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
+### Hipóteses de Estudo
+
+a) Máquinas com maior desgaste da ferramenta apresentam maior probabilidade de falha?
+
+b) A combinação de alta temperatura do processo e alto torque está associada a um aumento nas falhas da máquina?
+
+c) O tipo de produto fabricado influencia na taxa de falhas da máquina?
+
+d) A variável velocidade rotacional (rpm) tem uma relação não linear com a falha?
+
+e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do sistema pode antecipar a ocorrência da falha geral da máquina?
+
 ### Estrutura do trabalho
 
 O trabalho está dividido em tópicos, conforme a seguir:
@@ -21,18 +33,6 @@ O trabalho está dividido em tópicos, conforme a seguir:
 4. Pré Processamento de Dados
 
 5. Conclusão
-
-### Hipóteses de Estudo
-
-a) Máquinas com maior desgaste da ferramenta apresentam maior probabilidade de falha?
-
-b) A combinação de alta temperatura do processo e alto torque está associada a um aumento nas falhas da máquina?
-
-c) O tipo de produto fabricado influencia na taxa de falhas da máquina?
-
-d) A variável velocidade rotacional (rpm) tem uma relação não linear com a falha?
-
-e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do sistema pode antecipar a ocorrência da falha geral da máquina?
 
 ### Dados Complementares
 
