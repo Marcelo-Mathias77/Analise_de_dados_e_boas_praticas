@@ -10,6 +10,8 @@ O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados 
 
 ### Hipóteses de Estudo
 
+Foram levantadas as seguintes hipóteses que espera-se sejam provadas com a análise dos dados:
+
 a) Máquinas com maior desgaste da ferramenta apresentam maior probabilidade de falha?
 
 b) A combinação de alta temperatura do processo e alto torque está associada a um aumento nas falhas da máquina?
