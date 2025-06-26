@@ -6,7 +6,7 @@ O presente trabalho é um pré-requisito da disciplina Análise de Dados e Boas 
 
 Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são aplicados os conceitos aprendidos nas disciplinas do curso.
 
-O conjunto de Dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
+O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
 ### Estrutura do trabalho
 
