@@ -22,6 +22,8 @@ O trabalho está dividido em tópicos, conforme a seguir:
 
 5.
 
+### Hipóteses levantadas
+
 ### Dados Complementares
 
 Link para o dataset utilizado: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
