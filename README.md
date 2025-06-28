@@ -8,20 +8,6 @@ Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são apli
 
 O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
-### Hipóteses de Estudo
-
-Foram levantadas as seguintes hipóteses que espera-se sejam provadas com a análise dos dados:
-
-a) Máquinas com maior desgaste da ferramenta apresentam maior probabilidade de falha?
-
-b) A combinação de alta temperatura do processo e alto torque está associada a um aumento nas falhas da máquina?
-
-c) O tipo de produto fabricado influencia na taxa de falhas da máquina?
-
-d) A variável velocidade rotacional (rpm) tem uma relação não linear com a falha?
-
-e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do sistema pode antecipar a ocorrência da falha geral da máquina?
-
 ### Estrutura do trabalho
 
 O trabalho está dividido em tópicos, conforme a seguir:
@@ -35,6 +21,20 @@ O trabalho está dividido em tópicos, conforme a seguir:
 4. Pré Processamento de Dados: escreve as etapas essenciais para preparar os dados para a modelagem. Inclui técnicas como normalização, padronização, seleção de características (via Random Forest), redução de dimensionalidade (PCA) e criação de novas características (Feature Engineering), garantindo a otimização para algoritmos de aprendizado de máquina.
 
 5. Conclusão: Apresenta as principais descobertas da análise e pré-processamento. Destaca a importância de compreender a estrutura dos dados, a natureza desbalanceada do dataset, as correlações identificadas e a eficácia das visualizações. Reafirma a relevância das técnicas de normalização e padronização para o aprendizado de máquina, e valida as hipóteses levantadas com base nas análises gráficas.
+
+### Hipóteses de Estudo
+
+Foram levantadas as seguintes hipóteses que espera-se sejam provadas com a análise dos dados:
+
+a) Máquinas com maior desgaste da ferramenta apresentam maior probabilidade de falha?
+
+b) A combinação de alta temperatura do processo e alto torque está associada a um aumento nas falhas da máquina?
+
+c) O tipo de produto fabricado influencia na taxa de falhas da máquina?
+
+d) A variável velocidade rotacional (rpm) tem uma relação não linear com a falha?
+
+e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do sistema pode antecipar a ocorrência da falha geral da máquina?
 
 ### Dados Complementares
 
