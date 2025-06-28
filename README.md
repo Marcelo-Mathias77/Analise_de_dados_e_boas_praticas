@@ -4,7 +4,7 @@
 
 O presente trabalho é um pré-requisito da disciplina Análise de Dados e Boas Práticas da pós graduação em Ciência de Dados e Analytics da PUC-Rio.
 
-Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são aplicados os conceitos aprendidos nas disciplinas do curso.
+Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são aplicados os conceitos aprendidos nas disciplinas do curso, como por exemplo, .
 
 O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
@@ -26,15 +26,15 @@ e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do 
 
 O trabalho está dividido em tópicos, conforme a seguir:
 
-1. Definição do problema
+1. Definição do problema: Este tópico apresenta o escopo do projeto, abordando o uso do dataset AI4I 2020 Predictive Maintenance. O objetivo é analisar e prever falhas em máquinas industriais, identificando padrões que sinalizem a ocorrência de machine_failure por meio de variáveis contínuas e categóricas.
 
-2. Coleta dos Dados
+2. Coleta dos Dados: Detalha o processo de aquisição e carregamento do dataset, utilizando o Google Colab e Python. As bibliotecas principais empregadas são Pandas, NumPy, Matplotlib, Seaborn e scikit-learn.
 
-3. Análise de Dados 
+3. Análise de Dados: Nessa etapa é feita a Análise Exploratória (EDA) do dataset. Visa compreender a distribuição, relações e características das variáveis, utilizando estatísticas descritivas e diversas visualizações gráficas (gráficos de barras, boxplots, histogramas e mapas de calor) para verificar hipóteses e obter insights iniciais.
 
-4. Pré Processamento de Dados
+4. Pré Processamento de Dados: escreve as etapas essenciais para preparar os dados para a modelagem. Inclui técnicas como normalização, padronização, seleção de características (via Random Forest), redução de dimensionalidade (PCA) e criação de novas características (Feature Engineering), garantindo a otimização para algoritmos de aprendizado de máquina.
 
-5. Conclusão
+5. Conclusão: Apresenta as principais descobertas da análise e pré-processamento. Destaca a importância de compreender a estrutura dos dados, a natureza desbalanceada do dataset, as correlações identificadas e a eficácia das visualizações. Reafirma a relevância das técnicas de normalização e padronização para o aprendizado de máquina, e valida as hipóteses levantadas com base nas análises gráficas.
 
 ### Dados Complementares
 
