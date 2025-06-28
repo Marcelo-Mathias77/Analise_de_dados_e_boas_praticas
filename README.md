@@ -4,7 +4,7 @@
 
 O presente trabalho é um pré-requisito da disciplina Análise de Dados e Boas Práticas da pós graduação em Ciência de Dados e Analytics da PUC-Rio.
 
-Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são aplicados os conceitos aprendidos nas disciplinas do curso, como por exemplo, .
+Nele é feita a análise do dataset AI4I 2020 Predictive Maintenance e são aplicados os conceitos aprendidos nas disciplinas do curso, como por exemplo, Análise Exploratória, Pré-processamento de dados e Visualização de Informação.
 
 O conjunto de dados de Manutenção Preditiva AI4I 2020 é um conjunto de dados sintético que reflete dados reais de manutenção preditiva encontrados na indústria.
 
