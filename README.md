@@ -18,7 +18,7 @@ O trabalho está dividido em tópicos, conforme a seguir:
 
 3. Análise de Dados: Nessa etapa é feita a Análise Exploratória (EDA) do dataset. Visa compreender a distribuição, relações e características das variáveis, utilizando estatísticas descritivas e diversas visualizações gráficas (gráficos de barras, boxplots, histogramas e mapas de calor) para verificar hipóteses e obter insights iniciais.
 
-4. Pré Processamento de Dados: escreve as etapas essenciais para preparar os dados para a modelagem. Inclui técnicas como normalização, padronização, seleção de características (via Random Forest), redução de dimensionalidade (PCA) e criação de novas características (Feature Engineering), garantindo a otimização para algoritmos de aprendizado de máquina.
+4. Pré Processamento de Dados: Descreve as etapas essenciais para preparar os dados para a modelagem. Inclui técnicas como normalização, padronização, seleção de características (via Random Forest), redução de dimensionalidade (PCA) e criação de novas características (Feature Engineering), garantindo a otimização para algoritmos de aprendizado de máquina.
 
 5. Conclusão: Apresenta as principais descobertas da análise e pré-processamento. Destaca a importância de compreender a estrutura dos dados, a natureza desbalanceada do dataset, as correlações identificadas e a eficácia das visualizações. Reafirma a relevância das técnicas de normalização e padronização para o aprendizado de máquina, e valida as hipóteses levantadas com base nas análises gráficas.
 
