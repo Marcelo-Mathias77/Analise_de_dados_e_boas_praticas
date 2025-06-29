@@ -16,7 +16,7 @@ O trabalho está dividido em tópicos, conforme a seguir:
 
 2. Coleta dos Dados: Detalha o processo de aquisição e carregamento do dataset, utilizando o Google Colab e Python. As bibliotecas principais empregadas são Pandas, NumPy, Matplotlib, Seaborn e scikit-learn.
 
-3. Análise de Dados: Nessa etapa é feita a Análise Exploratória (EDA) do dataset. Visa compreender a distribuição, relações e características das variáveis, utilizando estatísticas descritivas e diversas visualizações gráficas (gráficos de barras, boxplots, histogramas e mapas de calor) para verificar hipóteses e obter insights iniciais.
+3. Análise de Dados: Nessa etapa é feita a Análise Exploratória (EDA) do dataset. Visa compreender a distribuição, relações e características das variáveis, utilizando estatísticas descritivas e diversas visualizações gráficas (gráficos de barras, boxplots, histogramas, mapas de calor e etc) para verificar hipóteses e obter insights iniciais.
 
 4. Pré Processamento de Dados: Descreve as etapas essenciais para preparar os dados para a modelagem. Inclui técnicas como normalização, padronização, seleção de características (via Random Forest), redução de dimensionalidade (PCA) e criação de novas características (Feature Engineering), garantindo a otimização para algoritmos de aprendizado de máquina.
 
