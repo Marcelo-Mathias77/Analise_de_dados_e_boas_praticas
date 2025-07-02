@@ -38,7 +38,7 @@ e) A presença de falhas específicas como falha da ferramenta ou sobrecarga do 
 
 ### Dados Complementares
 
-Uma cópia do notebook do Google Colab e do dataset (ai4i2020), em formato csv, encontra-sem anexados a este repositório.
+Uma cópia do notebook do Google Colab e do dataset (ai4i2020), em formato csv, encontram-se anexados a este repositório.
 
 Link para o dataset utilizado: https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
